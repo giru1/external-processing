@@ -1,0 +1,29 @@
+ИНФОРМАЦИЯ - precommit1c v2.3.0
+
+ИНФОРМАЦИЯ - Копирую: pre-commit
+ОШИБКА - {Модуль C:\GIT\json\v8files-extractor.os / Ошибка в строке: 604 / Внешнее исключение (System.IO.FileNotFoundException): Файл 'C:\GIT\json\pre-commit' не найден.}
+ИНФОРМАЦИЯ - precommit1c v2.3.0
+
+ИНФОРМАЦИЯ - Копирую: pre-commit
+ИНФОРМАЦИЯ - Копирую: v8Reader
+ОШИБКА - {Модуль C:\GIT\json\v8files-extractor.os / Ошибка в строке: 604 / Внешнее исключение (System.IO.FileNotFoundException): Файл 'C:\GIT\json\v8Reader' не найден.}
+ИНФОРМАЦИЯ - precommit1c v2.3.0
+
+ИНФОРМАЦИЯ - Копирую: pre-commit
+ИНФОРМАЦИЯ - Копирую: v8Reader
+ИНФОРМАЦИЯ - Копирую: v8files-extractor.os
+ИНФОРМАЦИЯ - Копирую: tools
+ОШИБКА - {Модуль C:\GIT\json\v8files-extractor.os / Ошибка в строке: 604 / Внешнее исключение (System.IO.FileNotFoundException): Файл 'C:\GIT\json\tools' не найден.}
+ИНФОРМАЦИЯ - precommit1c v2.3.0
+
+ИНФОРМАЦИЯ - Копирую: pre-commit
+ИНФОРМАЦИЯ - Копирую: v8Reader
+ИНФОРМАЦИЯ - Копирую: v8files-extractor.os
+ИНФОРМАЦИЯ - Копирую: tools
+ИНФОРМАЦИЯ - Установка завершена
+ИНФОРМАЦИЯ - precommit1c v2.3.0
+
+ОШИБКА - {Модуль C:\Program Files\OneScript\lib\cmdline\src\cmdline.os / Ошибка в строке: 107 / Неизвестная команда: ?}
+ИНФОРМАЦИЯ - precommit1c v2.3.0
+
+ОШИБКА - {Модуль C:\Program Files\OneScript\lib\cmdline\src\cmdline.os / Ошибка в строке: 107 / Неизвестная команда: ?}
